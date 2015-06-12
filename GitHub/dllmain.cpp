@@ -9,7 +9,7 @@ BOOL APIENTRY DllMain( HMODULE hModule,
 	switch (ul_reason_for_call)
 	{
 		{
-			OutputDebugStringA("hahahahaa");
+			OutputDebugStringA("µÔ±§¡À");
 		}
 	case DLL_PROCESS_ATTACH:
 	case DLL_THREAD_ATTACH:
